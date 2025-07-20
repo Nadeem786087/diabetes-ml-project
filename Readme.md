@@ -122,8 +122,11 @@ This project demonstrates how combining **feature engineering**, **ML models**, 
 
 **Muhammad Nadeem**
 BS Bioinformatics | Data Science Enthusiast
+
 📧 [nadeem62354@gmail.com]
+
 🔗 [https://www.linkedin.com/in/m-nadeem-655664284/]
+
 🔗 [https://github.com/Nadeem786087]
 
 ---
